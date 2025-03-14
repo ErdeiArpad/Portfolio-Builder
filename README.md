@@ -35,6 +35,7 @@ https://portfoliobuilder-prjt3-rtg.herokuapp.com/
 ## Contributors
 
 ```
+Erdei Arpad
 Richard Capuy
 Suraj Gurung
 Deepali Jain
